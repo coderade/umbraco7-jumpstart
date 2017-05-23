@@ -1,6 +1,6 @@
 # umbraco7-jumpstart
 
-Repository that contains some of the code used on the Pluralsight course [Umbraco Jumpstart](https://app.pluralsight.com/library/courses/umbraco-jumpstart/description).
+Repository that contains some of the code used on the [Pluralsight](https://www.pluralsight.com) course [Umbraco Jumpstart](https://app.pluralsight.com/library/courses/umbraco-jumpstart/description).
 
 ## About the course
 
